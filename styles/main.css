@@ -18,32 +18,33 @@
     height: 100vh;
     display: flex;
     justify-content: center;
+    position: relative;
 }
 
 .flow-container {
     height: auto;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
+}
+
+.square-container {
+    width: 280px;
+    height: 280px;
+    padding: 20px 20px 0 20px;
 }
 
 .flow-circle {
-    border: 10px solid var(--black-github);
-    border-radius: 50%;
-    min-width: 280px;
-    min-height: 280px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Dancing Script', cursive;
-    font-size: 25px;
+    font-size: 100px;
 }
 
 .flow-square {
     border: 10px solid var(--black-github);
     border-radius: 5%;
-    min-width: 280px;
-    min-height: 280px;
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -51,8 +52,8 @@
     font-size: 25px;
 }
 
-.icon-container {
-    font-size: 100px;
+.arrow-down-container {
+    font-size: 80px;
 }
 
 .v-line {
@@ -65,17 +66,24 @@
     flex-direction: column;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    background-color: var(--primary-light-gray);
+    padding: 0 20px;
 }
 
 .profile-title {
     font-size: 2rem;
     color: var(--primary-green);
+    text-align: center;
 }
 
 .profile-text {
     font-size: 14px;
     font-weight: 300;
     color: var(--primary-dark-gray);
+    text-align: center;
 }
 
 .icons-container {
@@ -99,6 +107,11 @@
 
 .fa-arrow-circle-down {
     color: var(--green-hackerrank);
+    transition: all .5s;
+}
+
+.fa-arrow-circle-down:hover {
+    filter: brightness(120%);
 }
 
 .fa-linkedin:hover {
@@ -115,4 +128,36 @@
 
 .fa-twitter-square:hover {
     color: var(--blue-twitter);
+}
+
+
+/*Medium mobile screens*/
+
+@media (max-width: 768px) {
+    .circle-container {
+        width: 120px;
+        height: 150px;
+    }
+    .square-container {
+        width: 120px;
+        height: 120px;
+    }
+    .flow-circle {
+        font-size: 100px;
+    }
+    .flow-square {
+        border: 5px solid var(--black-github);
+    }
+    .arrow-down-container {
+        font-size: 40px;
+    }
+    .v-line {
+        border-right: 5px solid;
+    }
+    .icons-container a {
+        padding-right: 5px;
+    }
+    .text-container {
+        top: 30%;
+    }
 }

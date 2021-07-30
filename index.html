@@ -2,67 +2,74 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="styles/styles.css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <link rel="stylesheet" href="styles/styles.css" />
+
+    <link rel="stylesheet" href="components/card-skill/card-skill.css" />
     <title>bamartinezd</title>
 </head>
 
 <body>
     <div class="container">
         <section id="section-one" class="section-container">
-            <div class="col-4 col-lg-4"></div>
-            <div class="flow-container col-4 col-lg-4">
+            <div class="flow-container">
                 <div class="flow-circle">
-                    Alejandro Martinez Delgado
+                    <i class="far fa-circle"></i>
                 </div>
+
                 <div class="v-line"></div>
-                <div class="icon-container">
+
+                <div class="text-container">
+                    <div class="profile-title">Alejandro Martinez Delgado</div>
+                    <div class="profile-text">
+                        8 years of experience in the development stage in different sectors like health, transport logistics, financial, etc. First three of these working with JAVA SE and LAMP stack in the front and backend side. Since 2016 with Microsoft dotnet ecosystem and
+                        technologies like aspnet, WinForms, WebForms, MVC, WCF, API Rest, dotnet core, JS, Angular in scrum teams.
+                    </div>
+                </div>
+
+                <div class="arrow-down-container">
                     <a href="#section-two">
                         <i class="fas fa-arrow-circle-down"></i>
                     </a>
-
-                </div>
-            </div>
-            <div class="text-container col-4 col-lg-4">
-                <div class="profile-title">
-                    Profile
-                </div>
-                <div class="profile-text">
-                    8 years of experience in the development stage in different sectors like health, transport logistics, financial, etc. First three of these working with JAVA SE and LAMP stack in the front and backend side. Since 2016 with Microsoft dotnet ecosystem and
-                    technologies like aspnet, WinForms, WebForms, MVC, WCF, API Rest, dotnet core, JS, Angular in scrum teams.
                 </div>
             </div>
         </section>
 
         <section id="section-two" class="section-container">
-            <div class="flow-container">
-                <div class="flow-square">
-                    building... Ideas??
+            <div class="flow-container col-4 col-lg-4">
+                <div class="square-container">
+                    <div class="flow-square">Skills</div>
                 </div>
                 <div class="v-line"></div>
                 <div class="icon-container">
                     <a href="#section-one">
                         <i class="fas fa-arrow-circle-down"></i>
                     </a>
-
                 </div>
-
+            </div>
+            <div class="skill-container" id="skill-container">
+                <!-- Draw cards texh -->
             </div>
         </section>
     </div>
 
     <div class="icons-container">
-        <a href="https://www.hackerrank.com/alejandromardelg" target="_blank"><i class="fab fa-hackerrank icon"></i></a>
-        <a href="https://www.linkedin.com/in/bamartinezd/" target="_blank"><i class="fab fa-linkedin icon"></i></a>
-        <a href="https://github.com/bamartinezd" target="_blank"><i class="fab fa-github-square icon"></i></a>
-        <a href="https://twitter.com/bamartinezd" target="_blank"><i class="fab fa-twitter-square icon"></i></a>
+        <a href="https://www.hackerrank.com/alejandromardelg" target="_blank"><i class="fab fa-hackerrank icon"></i
+      ></a>
+        <a href="https://www.linkedin.com/in/bamartinezd/" target="_blank"><i class="fab fa-linkedin icon"></i
+      ></a>
+        <a href="https://github.com/bamartinezd" target="_blank"><i class="fab fa-github-square icon"></i
+      ></a>
+        <a href="https://twitter.com/bamartinezd" target="_blank"><i class="fab fa-twitter-square icon"></i
+      ></a>
     </div>
 
+    <script type="module" src="components/card-skill/card-skill.js"></script>
 </body>
 
 </html>
