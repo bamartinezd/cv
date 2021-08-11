@@ -37,16 +37,10 @@ function createDotsElement(quantity) {
         dot.id = index;
         dotsContianer.append(dot);
     }
-
     return dotsContianer;
 }
 
 function removeCardToSkillContainer() {
-    // for (let index = 0; index < cardSkill.length; index++) {
-    //     const element = cardSkill[index];
-    //     skillContainer.removeChild(element);
-    // }
-
     while (cardSkill.length > 0) {
         cardSkill[0].parentNode.removeChild(cardSkill[0]);
     }

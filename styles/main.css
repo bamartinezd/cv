@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 :root {
     --primary-green: #1fde82;
     --primary-light-gray: #f7faff;
@@ -8,6 +9,15 @@
     --green-hackerrank: #1ba94c;
     --blue-twitter: #1da1f2;
     --blue-linkedin: #0a66c2;
+}
+
+body {
+    margin: 0;
+    height: auto;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 .container {
@@ -86,48 +96,6 @@
     text-align: center;
 }
 
-
-.card-experience{
-    display: flex;
-    flex-direction: row;
-    width: 300px;
-    height: 140px;
-    background-color: #fff;
-    position: absolute;
-    left: 10%;
-    top: 50%;
-    box-shadow: 0 6px 16px 0 rgb(0 0 0 / 20%);
-    border-radius: 5%;
-}
-.card-experience:hover{
-    cursor: pointer;
-}
-.card-experience:active{
-    box-shadow: 0 6px 10px 0 rgb(0 0 0 / 40%);
-}
-.logo-experience{
-    height: 100%;
-}
-.logo-experience img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-.text-experience{
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-    color: var(--primary-dark-gray);
-    font-family: 'Roboto', sans-serif;
-    justify-content: center;
-}
-.experience-title{
-    font-weight: 500;
-}
-.experience-date{
-    font-size: 14px;
-    font-weight: 300;
-}
 .icons-container {
     position: fixed;
     top: 10px;
@@ -145,6 +113,44 @@
 .icon {
     transition: all .5s;
     cursor: pointer;
+}
+
+.v-line-experience{
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+/* flow container css */
+
+.profile-container {
+    height: 100vh;
+}
+
+.flow-contaier {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    width: 50%;
+    top: 50%;
+    z-index: 1;
+    background-color: var(--primary-light-gray);
+}
+
+.icon-arrow {
+    font-size: 80px;
 }
 
 .fa-arrow-circle-down {
@@ -172,6 +178,41 @@
     color: var(--blue-twitter);
 }
 
+/*Medium mobile screens*/
+
+.fade-in {
+    animation: fadeIn linear 1s;
+    -webkit-animation: fadeIn linear 1s;
+    -moz-animation: fadeIn linear 1s;
+    -o-animation: fadeIn linear 1s;
+    -ms-animation: fadeIn linear 1s;
+}
+
+.fade-out {
+    animation: fadeOut ease 1s;
+    -webkit-animation: fadeOut ease 1s;
+    -moz-animation: fadeOut ease 1s;
+    -o-animation: fadeOut ease 1s;
+    -ms-animation: fadeOut ease 1s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
 
 /*Medium mobile screens*/
 
@@ -201,5 +242,11 @@
     }
     .text-container {
         top: 30%;
+    }
+}
+
+@media (max-width: 992px) {
+    .v-line-experience{
+        z-index: 0;    
     }
 }

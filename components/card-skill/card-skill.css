@@ -1,15 +1,6 @@
 /* css classes skill */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
-:root {
-    --primary-green: #1fde82;
-    --primary-light-gray: #f7faff;
-    --primary-dark-gray: #39424e;
-    --black-github: #0d1117;
-    --green-hackerrank: #1ba94c;
-    --blue-twitter: #1da1f2;
-    --blue-linkedin: #0a66c2;
-}
+
 
 .skill-container {
     display: flex;
