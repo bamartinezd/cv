@@ -1,57 +1,59 @@
+.card-container-experience {
+  display: inline-block;
+}
 .experience-container {
-    padding: 5px 0 25px 0;
-    position: absolute;
-    background-color: var(--primary-light-gray);
-    width: 70%;
-    top: 25%;
-    display: grid;
-    grid-template-columns: auto auto;
-    justify-content: space-between;
-}
-.card-experience{
-    display: flex;
-    flex-direction: row;
-    width: 300px;
-    height: 140px;
-    background-color: #fff;
-    box-shadow: 0 6px 16px 0 rgb(0 0 0 / 20%);
-    border-radius: 5%;
+  padding: 5px 0 25px 0;
+  position: absolute;
+  background-color: var(--primary-light-gray);
+  width: 70%;
+  top: 25%;
 
-    margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: auto auto;
+
+  justify-content: space-between;
 }
-.card-experience:hover{
-    cursor: pointer;
+.card-experience {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  height: 140px;
+  background-color: #fff;
+  margin-bottom: 20px;
 }
-.card-experience:active{
-    box-shadow: 0 6px 10px 0 rgb(0 0 0 / 40%);
+.card-experience:hover {
+  cursor: pointer;
 }
-.logo-experience{
-    height: 100%;
+.card-experience:active {
+  box-shadow: 0 6px 10px 0 rgb(0 0 0 / 40%);
 }
-.logo-experience img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
+.logo-experience {
+  height: 100%;
 }
-.text-experience{
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-    color: var(--primary-dark-gray);
-    font-family: 'Roboto', sans-serif;
-    justify-content: center;
+.logo-experience img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
 }
-.experience-title{
-    font-weight: 500;
+.text-experience {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  color: var(--primary-dark-gray);
+  font-family: "Roboto", sans-serif;
+  justify-content: center;
 }
-.experience-date{
-    font-size: 14px;
-    font-weight: 300;
+.experience-title {
+  font-weight: 500;
+}
+.experience-date {
+  font-size: 14px;
+  font-weight: 300;
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
     .experience-container {
         white-space:nowrap;
         overflow-x:scroll;
@@ -69,4 +71,4 @@
     .text-experience{
         padding: 5px;
     }
-}
+} */

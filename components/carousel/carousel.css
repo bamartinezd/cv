@@ -1,0 +1,37 @@
+.carousel-main-container {
+    position: absolute;
+    width: 405px;
+    top: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.carousel-container {
+    width: 100%;
+    background-color: var(--primary-light-gray);
+    overflow-x: scroll;
+    white-space: nowrap;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.icon-arrow-carousel {
+    font-size: 36px;
+    padding: 15px;
+    cursor: pointer;
+    transition: all .5;
+}
+
+.icon-arrow-carousel:hover {
+    color: green;
+}
+
+@media (max-width: 405px) {
+    .carousel-main-container {
+        width: 100%;
+    }
+    .icon-arrow-carousel{
+        padding: 5px;
+    }
+}

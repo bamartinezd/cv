@@ -1,17 +1,20 @@
 import experience from "../../data/card-experience.data.js";
 import createElement from "../../functions/generic-functions.js";
 
-const experienceContainer = document.getElementById('experience-container');
+const carouselContainer = document.getElementById('carousel-container');
 
 function loadData() {
     console.log(experience);
     for (let index = 0; index < experience.length; index++) {
         const element = experience[index];
-        experienceContainer.appendChild(createCardExperience(element));
+        carouselContainer.appendChild(createCardExperience(element));
     }
 }
 
 function createCardExperience(experienceObj) {
+
+    const cardContainerExperience = createElement('div', 'card-container-experience');
+    
     const cardExperience = createElement('div', 'card-experience');
 
     const logoExperience = createElement('div', 'logo-experience');
@@ -34,7 +37,9 @@ function createCardExperience(experienceObj) {
 
     cardExperience.append(logoExperience, textExperience);
 
-    return cardExperience;
+    cardContainerExperience.appendChild(cardExperience);
+
+    return cardContainerExperience;
 }
 
 loadData();

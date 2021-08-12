@@ -116,7 +116,7 @@ html {
 }
 
 .v-line-experience{
-    z-index: 1;
+    z-index: 0;
 }
 
 
@@ -242,11 +242,5 @@ html {
     }
     .text-container {
         top: 30%;
-    }
-}
-
-@media (max-width: 992px) {
-    .v-line-experience{
-        z-index: 0;    
     }
 }
