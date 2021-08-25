@@ -7,6 +7,7 @@
     --primary-dark-gray: #39424e;
     --black-github: #0d1117;
     --green-hackerrank: #1ba94c;
+    --green-whatsapp: #009688;
     --blue-twitter: #1da1f2;
     --blue-linkedin: #0a66c2;
 }
@@ -178,6 +179,9 @@ html {
     color: var(--blue-twitter);
 }
 
+.fa-whatsapp:hover{
+    color: var(--green-whatsapp);
+}
 /*Medium mobile screens*/
 
 .fade-in {
