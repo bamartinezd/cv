@@ -6,7 +6,7 @@ const experience = [{
         website: 'https://www.globant.com/'
     },
     {
-        image: '../assets/gml-logo.jpeg',
+        image: 'assets/gml-logo.jpg',
         position: 'Consultant/.Net Developer',
         companyName: 'GML Software',
         dateRange: 'May 19, 2021 - Current',
