@@ -216,6 +216,10 @@ html {
     color: var(--black-github);
 }
 
+.decoration-none:hover{
+    color: var(--black-github);
+}
+
 /*Medium mobile screens*/
 
 .fade-in {
