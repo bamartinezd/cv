@@ -4,7 +4,6 @@ import createElement from "../../functions/generic-functions.js";
 const carouselContainer = document.getElementById('carousel-container');
 
 function loadData() {
-    console.log(experience);
     for (let index = 0; index < experience.length; index++) {
         const element = experience[index];
         carouselContainer.appendChild(createCardExperience(element));
@@ -13,7 +12,9 @@ function loadData() {
 
 function createCardExperience(experienceObj) {
 
-    const cardContainerExperience = createElement('div', 'card-container-experience');
+    const cardContainerExperience = createElement('a', 'card-container-experience');
+    cardContainerExperience.href = experienceObj.website;
+    cardContainerExperience.target="_blank";
     
     const cardExperience = createElement('div', 'card-experience');
 
@@ -36,6 +37,7 @@ function createCardExperience(experienceObj) {
     textExperience.append(experienceTitle, experienceCompany, experienceDate);
 
     cardExperience.append(logoExperience, textExperience);
+    
 
     cardContainerExperience.appendChild(cardExperience);
 
@@ -43,3 +45,4 @@ function createCardExperience(experienceObj) {
 }
 
 loadData();
+

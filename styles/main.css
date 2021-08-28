@@ -192,6 +192,30 @@ html {
     list-style: none;
 }
 
+.btn-cv{
+    position: absolute;
+    top: 65%;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: var(--green-hackerrank);
+    background-color: white;
+    border: 1px solid var(--green-hackerrank);
+}
+
+.btn-cv:hover{
+    color: white;
+    background-color: var(--green-hackerrank);
+}
+
+.decoration-none{
+    text-decoration: none;
+    color: var(--black-github);
+}
+
 /*Medium mobile screens*/
 
 .fade-in {
@@ -258,4 +282,8 @@ html {
     .text-container {
         top: 30%;
     }
+    .btn-cv{
+        top: 70%;
+    }
+
 }

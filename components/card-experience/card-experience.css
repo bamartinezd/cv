@@ -1,5 +1,6 @@
 .card-container-experience {
   display: inline-block;
+  text-decoration: none;
 }
 .experience-container {
   padding: 5px 0 25px 0;
