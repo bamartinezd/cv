@@ -1,3 +1,5 @@
+const profileText = document.getElementById("profile-text");
+
 async function getIp() {
     const apiUrl = "https://api.ipify.org/?format=json";
 
@@ -35,4 +37,17 @@ async function registerVisit() {
 
 }
 
-registerVisit();
+//registerVisit();
+
+function textProfile() {
+    const yearStartExpAsSoftwareDeveloper = 2013;
+    const yearStartExpAsDotnetDeveloper = 2016;
+
+    softDevExperienceInYears = new Date().getFullYear() - yearStartExpAsSoftwareDeveloper;
+    dotnetExperienceInYears = new Date().getFullYear() - yearStartExpAsDotnetDeveloper;
+    
+    profileText.innerText = `Software engineer with ${softDevExperienceInYears} years of general experience (Since 2013) and ${dotnetExperienceInYears} years of 
+    experience working with C# dotnet ecosystem as main stack (Since 2016) in the back-end, I've been also working on the front-end using Angular, JS and TS. 
+    And React in some side projects. I've been working in different industries like health, transport logistics, financial, consulting, etc.`;
+}
+textProfile();
