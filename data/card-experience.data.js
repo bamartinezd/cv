@@ -1,4 +1,10 @@
 const experience = [{
+        image: 'assets/K+C.jpg',
+        position: '.NET Engineer Consultant',
+        companyName: 'Kin + Carta/Valtech',
+        dateRange: 'Jul 17, 2023 - Current',
+        website: 'https://www.kinandcarta.com/'
+    },{
         image: 'assets/Short-Original.jpg',
         position: '.Net Developer',
         companyName: 'Globant',
