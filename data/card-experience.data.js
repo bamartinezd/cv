@@ -2,7 +2,7 @@ const experience = [{
         image: 'assets/K+C.jpg',
         position: '.NET Engineer Consultant',
         companyName: 'Kin + Carta/Valtech',
-        dateRange: 'May 19, 2021 - Current',
+        dateRange: 'Jul 17, 2023 - Current',
         website: 'https://www.kinandcarta.com/'
     },{
         image: 'assets/Short-Original.jpg',
