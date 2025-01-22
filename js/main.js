@@ -50,4 +50,5 @@ function textProfile() {
     experience working with C# dotnet ecosystem as main stack (Since 2016) in the back-end, I've been also working on the front-end using Angular, JS and TS. 
     And React in some side projects. I've been working in different industries like health, transport logistics, financial, consulting, etc.`;
 }
+
 textProfile();
