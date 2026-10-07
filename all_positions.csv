@@ -1,0 +1,194 @@
+Company,Position Title,Location,Language,Tech Stack,URL
+Siemens,Software Developer (w/m/d),Forchheim Germany,German,C#/.NET/Kubernetes/Docker/Angular/CI/CD/AI,https://jobs.siemens.com/en_US/externaljobs/JobDetail/513768
+Siemens,Software Engineer Interventional Therapy Systems (w/m/d),Forchheim Germany,English,C#/.NET/C++/Angular/HL7/FHIR/DICOM/REST/Containers,https://jobs.siemens.com/en_US/externaljobs/JobDetail/518062
+Siemens,Senior Software Engineer MRI Workflow (f/m/d),Erlangen Germany,English,C#/C++/.NET/Visual Studio/Git/CI/CD/DevOps,https://jobs.siemens.com/en_US/externaljobs/JobDetail/510703
+Siemens,Software Developer Authentication & Authorization (w/m/d),Forchheim Germany,German,C#/.NET/OAuth2/OIDC/JWT/Kubernetes/Docker/Azure DevOps,https://jobs.siemens.com/nl_NL/externaljobs/JobDetail/513387
+Siemens,Senior Software Developer Open MRI Reconstruction Framework,Erlangen Germany,English,C++/Python/API design/Containerization,https://jobs.siemens.com/en_US/externaljobs/JobDetail/505231
+Siemens,Senior Software Engineer Interventional Therapy Systems (f/m/d),Forchheim Germany,English,C#/.NET/C++/Angular/Test automation/Real-time systems,https://jobs.siemens.com/en_US/externaljobs/JobDetail/518061
+Siemens,Software Ingenieur Automatisierungstechnik (w/m/d),Fürth Germany,German,.NET C#/SCL/Clean Code/TDD/Git/PLC,https://jobs.siemens.com/en_US/externaljobs/JobDetail/498667
+Siemens,System Engineer Software Development Specialty Lab Solutions (f/m/d),Marburg Germany,German,C#/.NET Core 6+/AI-supported tools,https://jobs.siemens.com/en_US/externaljobs/JobDetail/497383
+Siemens,Software Developer for Testing Engineering,Sibiu Romania,English,Java/C#/VB.NET/LabVIEW/TestStand/OOP,https://jobs.siemens.com/de_DE/externaljobs/JobDetail/470515
+Siemens,Software Engineer Backend for Medical Applications,Getafe Spain,English,C++/C#/OpenAPI/Containerization/CI/CD/Linux,https://jobs.siemens.com/de_DE/externaljobs/JobDetail/502382
+Siemens,Software Developer (f/m/d) Siemens Energy,Erlangen Germany,English,C#/C++/WPF/.NET/MVVM/Microservices/Git/SCRUM/SAFe,https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Software-Developer-f-m-d/289272
+Allianz,Software Engineer (f/m/d) risklab,Munich/Frankfurt Germany,English,Python/C#/REST APIs/Azure/Docker/K8s/CI/CD/Microservices,https://careers.allianz.com/de/de/job/104355/Software-Engineer-f-m-d-risklab
+Allianz,Team Lead Software Development simplesurance,Germany,English/German,Backend/Scalable Services,https://careers.allianz.com/de/de/job/99583
+Allianz,Financial Data Platform Engineer GRIPS (m/f/d),Munich Germany,English,Data Pipelines/APIs/Analytics,https://careers.allianz.com/de/de/job/103055
+Allianz,Senior Java Software Developer (m/f/d),Barcelona Spain,English,Java,https://careers.allianz.com/gb/en/job/102586
+Allianz,Software Developer & DevSecOps Engineer (f/m/d),Germany,English,Web Apps/DevSecOps,https://careers.allianz.com/global/en/
+Allianz,Senior Python Developer (f/m/d),Warsaw Poland,English,Python,https://careers.allianz.com/global/en/
+Allianz,Backend Software Developer,Budapest Hungary,English C1,Cloud/Microservices/CI/CD,https://internal-careers.allianz.com/job/Budapest-Backend-Software-Developer-1087/1154855601/
+TeamViewer,(Senior) Software Engineer C++/C#,Göppingen/Stuttgart/Karlsruhe Germany,English mandatory,C++/C#/.NET,https://careers.teamviewer.com/jobs
+TeamViewer,Senior Full Stack Software Engineer,Göppingen Germany,English,TypeScript/C#/JavaScript,https://careers.teamviewer.com/jobs
+TeamViewer,Senior Site Reliability Engineer,Göppingen Germany,English,DevOps/SRE,https://careers.teamviewer.com/jobs
+TeamViewer,AI Software Architect,Linz Austria Hybrid,English,Java/TypeScript/C#/Kotlin/React,https://careers.teamviewer.com/jobs/8209102-ai-software-architect
+TeamViewer,Senior Software Architect,London UK Hybrid,English,Software Architecture,https://careers.teamviewer.com/jobs/7971584-senior-software-architect
+TeamViewer,Staff Software Engineer C#,Noida India Hybrid,English,C#/.NET/Kafka/Databricks/Azure/K8s,https://careers.teamviewer.com/jobs/7093129-staff-software-engineer-c
+TeamViewer,Senior Java Software Engineer,Linz Austria Hybrid,English,Java/Kotlin/C#,https://en.devjobs.at/jobs/teamviewer-gmbh
+TeamViewer,DevOps Engineer,Porto Portugal Hybrid,English,DevOps,https://careers.teamviewer.com/jobs
+TeamViewer,Senior Fullstack AI Engineer (React C#),Austin TX USA Hybrid,English,React/C#/AI,https://careers.teamviewer.com/jobs
+Mercedes-Benz Group,Senior Full Stack Developer (.NET Focus),Bangalore India,English,.NET 8/C#/ASP.NET Core/Azure/Microservices/DDD,https://jobs.mercedes-benz.com/fullstack-developer-net--ito-transition-211141-MER000402A
+Mercedes-Benz Group,Fullstack Developer ITO Transition,Bangalore India,English,.NET/C#/ASP.NET Core/Azure/Docker/K8s,https://jobs.mercedes-benz.com/fullstack-developer-ito-transition-209227-MER0004026
+Mercedes-Benz Group,Solution Architect / Lead Full Stack Architect,Bangalore India,English,.NET/C#/Architecture/Microservices,https://jobs.mercedes-benz.com/en/architect-211146-mer0004024
+Mercedes-Benz Group,Software Integration and Release Management,Shanghai China,English,QNX/Android/AUTOSAR/Jenkins/Gradle,https://jobs.mercedes-benz.com/enUS/software-integration-and-release-management-200455-MER0003XV0
+Mercedes-Benz Group,Senior Developer Vehicle Functions,Bangalore India,English,Android Automotive/Kotlin/Java/C/C++,https://jobs.mercedes-benz.com/senior-developer-vehicle-functions--179970-MER0003PY0
+Mercedes-Benz Group,ACM Developer (Junior Backend),Bangalore India,English,Java/Spring Boot,https://jobs.mercedes-benz.com/en/acm-developer-position-227444-MER00045B8
+Mercedes-Benz Group,Technical Architect (Mainframe Migration),Bangalore India,English,COBOL/CICS/DB2/Java/Python/.NET,https://jobs.mercedes-benz.com/en/technical-architect-147511-MER0003FIX
+Bosch,Global Reporting System Developer (m/w/d),Berlin Germany,German/English,.NET/C#/MSSQL/T-SQL/Agile,https://jobs.bosch.de/en/job/Global-Reporting-System-Developer-m_w_d-Berlin-Charlottenburg?id=dee09f29-83b0-4504-bec5-73c5ebacc28c
+Bosch,Embedded Software Developer Automation Mobile Work Machines,Elchingen/Ulm Germany,English/German,C++/Python/Linux/QNX/ML/CI/CD,https://jobs.bosch.de/en/job/Embedded-Software-Developer-for-the-Automation-of-Mobile-Work-Machines-f_m_div.-Elchingen-bei-Ulm?id=8b421c4b-d90c-4530-84c3-9ad7770d7c6b
+Bosch,Cyber-Security Software Engineer Automated Mobile Machinery,Schwieberdingen Germany,English/German,C/C++/QNX/CAN/CAN-FD/Ethernet/Cryptography,https://jobs.bosch.de/en/job/Cyber-Security-Software-Engineer-for-Automated-Mobile-Machinery-f_m_div.-Schwieberdingen?id=1e40d454-ec0b-4f41-9815-223e0fbf66a7
+Bosch,Community Manager Software Engineering Toolchain,Ulm Germany,German/English,Software Toolchain/DevOps,https://jobs.bosch.de/en/job/Community-Manager-Software-Engineering-Toolchain-f_m_div.-Lohr-am-Main?id=82256cdb-d00b-4d41-87ee-0ddb0571b16e
+Bosch,Senior Software Engineer Embedded Systems,Ulm Germany,German/English,Embedded Systems,https://jobs.bosch.de/job/Senior-Software-Engineer-–-Embedded-Systems-Entwicklungsmethoden-EG15-m_w_d-w_m_div.-Ulm?id=6ab3ad17-561b-46c4-a91f-7c8ada00d875
+Bosch,Backend Developer C# .NET Core Azure,Vietnam,English,.NET Core/C#/Azure/DDD/CQRS/SOLID/Microservices,https://jobs.smartrecruiters.com/BoschGroup/744000127351729
+Deutsche Telekom,Software Engineer AI Senior Expert,Hamburg/Bamberg/Berlin/Munich/Darmstadt/Leipzig/Bonn Germany,English,Python/JVM/Node.js/K8s/RAG,https://en.devjobs.de/job/0c2f664abf08723d28a36118ce155ffa
+Deutsche Telekom,AI & DevOps Architect,Berlin/Munich/Dresden/Leipzig/Rostock Germany,English,GitOps/Java/K8s/ArgoCD/Prometheus,https://en.devjobs.de/job/56a5b411e1e9ed8d01f2e20eaf5492ca
+Deutsche Telekom,IT Architect Public,Berlin/Dresden/Leipzig/Jena Germany,German,Software Architecture,https://en.devjobs.de/job/6380f3898b18254eb85a91d8cdedc98c
+Deutsche Telekom,Technical Architect Salesforce,Hamburg/Berlin/Munich/Dresden/Leipzig/Jena/Bonn/Rostock Germany,English,Salesforce,https://en.devjobs.de/job/12485622ff0db829f85b1f82969e8fcd
+Deutsche Telekom,Head of Mobile Experience,Leinfelden/Berlin/Dresden Germany,English,Android/React Native/Flutter/iOS,https://en.devjobs.de/job/77f8f51c5a352f581e9ac77319822d89
+Deutsche Telekom,Generative AI Software Engineer (m/f/d),Granada Spain,English,GenAI,https://careers.telekom.com/en/jobs
+Deutsche Telekom,Expert Backend Engineer Public Cloud,Budapest/Debrecen/Hungary,English,Backend/Cloud,https://careers.telekom.com/en
+Deutsche Telekom,Application Developer with Angular,Slovakia Remote,English,Angular,https://likeremote.com/remote-jobs/deutsche-telekom-it-solutions-slovakia-remote-job-application-developer-with-angular-m-f-d--6602647
+BMW Group,Senior AI Platform Engineer Intelligent Vehicles,Munich Germany,English,C++/Kotlin/TensorRT/ONNX/Rust,https://en.devjobs.de/job/4f59cda987a12a1f0146426586483553
+BMW Group,Senior Applied AI/ML Application Engineer,Munich Germany,English,Python/Java/Kotlin,https://en.devjobs.de/job/fe53065a1680e5e6bf02fbbd9669c733
+BMW Group,Senior AI ADAS Engineer,Munich Germany,English,C++/Python,https://en.devjobs.de/job/2684a962a0fecbc4d45a8b6ab4dc29ed
+BMW Group,Senior Software Engineer Agentic AI for Automotive,Munich Germany,English,Rust/Java/Kotlin/C++/AI/ML,https://jobs.bmwgroup.com/job/1383903633
+BMW Group,Solution Architect,Woodcliff Lake NJ USA,English,.NET/C#/Angular/AWS,https://jobs.bmwgroup.com/job/Solution-Architect/162593-en_US/
+BMW Group,Working Student Cloud Engineering & AI Integration,Munich Germany,English,AWS/K8s/Docker/Quarkus/Terraform/Java/Python,https://en.devjobs.de/job/34f87222a00256a7a95a81f085677349
+Volkswagen Group,Software Developer II Backend,Reston VA USA,English,Backend/Linux,https://jobs.volkswagen-group.com/Electrify_America/job/Software-Developer-II-Backend/1366401733
+Volkswagen Group,Middle Fullstack Developer,Lisbon Portugal,English,Fullstack,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1397349533
+Volkswagen Group,Expert OpenShift Platform Engineer,Bratislava Slovakia,English,OpenShift,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1385348433
+Volkswagen Group,Senior Kubernetes Systems Engineer,Bratislava Slovakia,English,Kubernetes,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1425564933
+Volkswagen Group,Cloud Engineer AWS Landing Zone/Networking,Bratislava Slovakia,English,AWS/Cloud,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1402202933
+Volkswagen Group,Cloud Monitoring DevOps,Bratislava Slovakia,English,DevOps/Cloud Monitoring,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1402187433
+Volkswagen Group,Tech Lead,Valencia Spain,English,Tech Lead,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1387068533
+Volkswagen Group,AI Engineer,Valencia Spain,English,AI,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1387063533
+Volkswagen Group,Software Engineer (f/m/d),Valencia Spain,English,Software Engineering,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1422294433
+Volkswagen Group,Senior Data Engineer Streaming Analytics (f/m/d),Ingolstadt Germany,English,Streaming/Data/CARIAD,https://jobs.volkswagen-group.com/cariad/job/1286724401
+Volkswagen Group,Junior AI & Data Engineer,Lisbon Portugal,English,AI/Data,https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/1416736933
+Volkswagen Group,Senior Staff Software Engineer AI Platform (Rivian/VW),Palo Alto CA USA,English,Golang/Python/AWS/K8s/LLMs,https://jobs.volkswagen-group.com/Volkswagen-Group/job/1418431733
+REWE Group,Full Stack Developer,Cologne Germany,English/German,Angular/Apache Wicket/GCP/GitLab/HTML5/Microservices,https://en.devjobs.de/job/ab68e59faa690a7954ae173e27473fee
+REWE Group,Senior Backend Developer CRM Data & Insights,Vienna Austria,English,Java Spring Boot/Python,https://rewe-group.jobs/en/jobs/REF4175T
+REWE Group,Backend Software Engineer (m/f/x),Vienna Austria,English,Java/Microservices/Docker/K8s/CI/CD,https://rewe-group.jobs/de/jobs/REF4139C-39adfd3b-4de0-478a-8dd8-96b28084938e
+REWE Group,SAP Developer ABAP Corporate Master Data,Cologne/Frankfurt/Kiel Germany,German,ABAP/SAP BTP/S/4Hana/Fiori/UI5,https://en.devjobs.de/job/0f576aeb8df092a488cb5201d77c5812
+DHL Group,Software Engineer,Cyberjaya Malaysia,English,Java/Spring Boot/Microservices/PostgreSQL/Kubernetes,https://careers.dhl.com/global/en/search-results?keywords=software+engineer
+DHL Group,Experte Softwareentwicklung (m/w/d),Potsdam Germany,German,Java/Jakarta EE/Spring Boot/Microservices/Docker/K8s/Terraform/Angular/React/Vue,https://hirenata.com/jobs/a8b70fc7-7398-41ef-91a4-609f853aa292
+DHL Group,DevOps Engineer Full-Stack Java & Angular,Berlin Germany,English,Java/Spring Boot/Angular/React/Microservices,https://talents.studysmarter.de/companies/dhl-germany/devops-engineer-full-stack-java-angular-4204766/
+DHL Group,AI Engineer DHL Data & AI,Bonn Germany,English,Python/SQL/ML/AI/PyTorch/Kubernetes/RAG/LLMs/AWS/Azure/GCP,https://talents.studysmarter.de/companies/dhl-germany/ai-engineer-d-f-m-dhl-data-ai-20164411/
+DHL Group,Lead Solutions Architect AI Platform,Germany,English,AI Platform/MCP,https://dhl.com/global/en/it-services
+DHL Group,Senior Python Developer,Germany,English,Python,https://dhl.com/global/en/it-services
+DHL Group,Software Engineer (.NET),Indore India,English,.NET/C#,https://careers.dhl.com/global/en/job/DPDHGLOBALAV293778ENGLOBALEXTERNAL/Software-Engineer-Net
+E.ON,Software Engineer .NET / Azure,Essen Germany,German,.NET/Azure,https://www.rapidjob.de/job/77i7hrn/
+E.ON,Agentic Software Engineer Backend/DevOps (m/w/d),Köln Germany,German,Kotlin/Spring Boot/AWS/K8s/OpenTofu/GitLab CI/CD/REST/GraphQL,https://careers.eon.com/deutschland/job/K%C3%B6ln-Agentic-Software-Engineer-Fokus-Backend-DevOps-%28SpringKotlinAWSk8s%29-%28mwd%29/1288498401/
+E.ON,Senior Frontend Engineer React/Next.js (m/w/d),Köln Germany,German,React/Next.js/TypeScript/GraphQL/React Native,https://careers.eon.com/deutschland/job/K%C3%B6ln-Senior-Frontend-Engineer-React-Next_js-%28mwd%29/1288498901/
+E.ON,Software Developer Cloud Applications und Frontend,Hamburg Germany,German,Cloud/Middleware/IoT/Backend,https://www.wearedevelopers.com/jobs/ext/397433-software-developer-cloud-applications-und-frontend
+E.ON,IT Platform Solution Architect (m/w/d),Köln Germany,German,Cloud/SaaS/API architectures/AI-native tools,https://careers.eon.com/deutschland/job/K%C3%B6ln-IT-Platform-Solution-Architect-%28mwd%29/1425173033/
+Uniper,Trading IT Senior Solution Architect (f/m/d),Düsseldorf Germany,English,ETRM/Solution Architecture,https://careers.uniper.energy/en/job/Trading-IT-Senior-Solution-Architect-f_m_d-Duesseldorf?id=86766
+Uniper,Trading IT AI and Algo Trading Developer (f/m/d),Düsseldorf Germany,English,C#/Python/Java/C++/Docker/Kubernetes/Cloud/Scrum/Kanban,https://www.talentify.io/job/ai-and-algo-trading-developer-fmd-dusseldorf-north-rhine-westphalia-uniper-84477
+Uniper,Trainee Digital Trading (f/m/d),Düsseldorf Germany,English,Python/C#/Git/Docker/Kubernetes/Cloud,https://www.rapidjob.de/job/ukmxkk4/
+Deutsche Bank,Software Development Engineer Payment Channel Applications,Berlin Germany,English,React/TypeScript/Java/Kafka/PostgreSQL/Oracle/MongoDB/Kubernetes,https://insider-jobs.com/job/69bb6406e00582958756d005/software-development-engineer-f-m-x-corporate-bank-technology-payment-channel-applications-deutsche-bank-berlin-deutschl
+Deutsche Bank,Lead Java Backend Engineer Core Trading Technology,Berlin Germany,English,Core Java/Multi-threading/Linux/SQL/Messaging/Performance,https://hiretik.com/jobs/7853fffd-cb48-4b5b-9cd0-deea039b657a
+Deutsche Bank,Senior Software Engineer (Java) TFL Booking Platform,Berlin Germany,English,Java 21/Spring/Oracle/JUnit/Cucumber/Event-sourcing,https://jobs.startup-insider.com/companies/deutsche-bank/jobs/senior-software-engineer-java-fmx---tfl-booking-platform-lending
+Deutsche Bank,Senior Java/Kotlin Engineer Statements,Berlin Germany,English,Java/Kotlin,https://careers.db.com/explore-the-bank/careers-in-technology/berlin.techcentre/
+Deutsche Bank,Tech Lead AI Integration Services,Berlin Germany,English,AI/Tech Leadership,https://careers.db.com/explore-the-bank/careers-in-technology/berlin.techcentre/
+Deutsche Bank,Lead Solution Architect Anti Financial Crime,Berlin Germany,English,Solution Architecture,https://careers.db.com/explore-the-bank/careers-in-technology/berlin.techcentre/
+Deutsche Bank,Senior Software Engineer (Accounting Domain),Bucharest Romania,English,.NET/Backend,https://hiretik.com/jobs/40377bb7-89cd-46d2-a0e9-16891118ce55
+BASF,Senior Software Engineer (m/f/d),Madrid Spain,English,Angular 12+/.NET Core C#/REST APIs/SQL/Docker/K8s/Azure/AWS/CI/CD/Microservices,https://basf.jobs/TSA/job/Senior-Software-Engineer-%28mfd%29/138622-en_US/
+BASF,Full Stack Engineer for AI Solutions (m/f/d),Madrid Spain,English,Python/Docker/Git/CI/CD/MCP/LangChain/Azure/Databricks,https://basf.jobs/dark_blue_EMEA/job/Madrid-Full-Stack-Engineer-for-AI-Solutions-%28mfd%29/1282349001/
+BASF,Frontend Engineer (m/f/d),Remote Spain,English,Angular 17+/TypeScript/Angular Material/NgRx/SCSS/REST APIs/Jest/Vue.js,https://basf.jobs/dark_blue_EMEA/job/Remoto-Frontend-Engineer-%28mfd%29/1288820201/
+BASF,.NET Frontend Developer with UI/UX Focus (m/f/d),Madrid Spain,English,.NET 8/C#/WinForms/Visual Basic/Python,https://basf.jobs/dark_blue_EMEA/job/Madrid-_NET-Frontend-Developer-with-UIUX-Focus-(mfd)/1200124001/
+BASF,Working Student Backend Engineer Python & FastAPI (m/f/d),Ludwigshafen Germany,English,Python/FastAPI,https://basf.jobs/dark_blue_EMEA/job/Ludwigshafen-am-Rhein-Working-student-Backend-Engineer-Python-&-FastAPI-%28mfd%29-Remote-GER/1293584301/
+Munich Re Group,Solution Architect Finance Group Systems (C# SQL Cloud),Munich Germany Hybrid,German required,C#/SQL/Cloud/Microservices,https://careers.munichre.com/en/job/munich/solution-architect-for-finance-group-systems-m-f-d/3342/41304639744
+Munich Re Group,Technical Architect (Developer Platform),Munich Germany Hybrid,German required,Architecture/Cloud/Platform,https://careers.munichre.com/en/job/munich/technical-architect-m-f-d/3342/42782691904
+Munich Re Group,Technical Architect (m/f/d),Munich Germany,English,Azure/Microservices/DevOps/Git/Backstage/Terraform,https://careers.munichre.com/en/job/munich/technical-architect-m-f-d/3342/40961861440
+Munich Re Group,Solution Architect (m/f/d),Munich Germany,English,Databricks/PySpark/Delta Lake/Python/Azure/Docker/CI/CD/SQL/AI/ML,https://careers.munichre.com/en/job/munchen/solution-architect-m-f-d/3342/36699320832
+Munich Re Group,Front End Software Engineer,Boston USA,English,JavaScript/HTML5/CSS3/Angular/RxJS/Node.js/REST/GraphQL,https://careers.munichre.com/en/job/boston/front-end-software-engineer/3609/36000685568
+Munich Re Group,AI Engineer,Boston USA,English,Python/Go/Java/ML/LLM/Cloud/Microservices,https://careers.munichre.com/en/job/boston/ai-engineer/3609/36000686080
+Munich Re Group,Senior Data Analytics Architect (m/f/d),Munich Germany,English,Databricks/Delta Lake/Azure/Streaming/IaC/CI/CD/Kubernetes/Oracle/SQL/MongoDB,https://careers.munichre.com/en/job/munich/senior-data-analytics-architect-m-f-d/3342/40292911296
+Munich Re Group,Senior Technical Data Specialist (m/f/d),Munich Germany,English,Azure/Databricks/Kubernetes/AI/ML/LLM/Azure DevOps/Terraform,https://careers.munichre.com/en/job/munchen/senior-technical-data-specialist-m-f-d/3342/42778631936
+Munich Re Group,Software Engineer Health Policy Contracts (m/w/d),Köln Germany,German,COBOL/GenAI/Agile/DevOps/Microservices,https://careers.munichre.com/en/job/koln/software-engineer-health-policy-contracts-m-w-d/3382/42374555968
+Edeka Zentrale,Full-Stack Developers (Cloud),Hamburg Germany,German,C#/.NET/Angular/TypeScript/Node.js/Cloud migration,https://en.devjobs.de/jobs/edeka-zentrale-ag-and-co-kg
+Edeka Zentrale,Full Stack Developer Java / Node.js (m/w/d),Germany,German,Java/Node.js,https://bms.edeka.de/bewerber/landingpage.php?b=13&ie=1&lang=de_DE&oid=13&prj=95P353281
+Edeka Zentrale,(Senior) ABAP Developer (m/w/d),Mannheim Germany,German,ABAP/ABAP OO/CDS Views/OData/SAPUI5/Fiori/RAP,https://www.get-in-it.de/jobsuche/p310664
+Edeka Zentrale,Junior Developer Flutter / Golang / Java,Hamburg Germany,German,Flutter/Golang/Java,https://www.stellenonline.de/jobs-bei-edeka_it
+Edeka Zentrale,Senior Java Developer,Hamburg Germany,German,Java,https://www.stellenonline.de/jobs-bei-edeka_it
+Edeka Zentrale,(Senior) AI Engineer,Mannheim Germany,German,AI/ML,https://www.stellenonline.de/jobs-bei-edeka_it
+Daimler Truck,Senior Full Stack Developer Frontend (React + .NET APIs Azure),Portland OR USA Hybrid,English,React/.NET APIs/Azure/Claude Code/Copilot/Cursor,https://jobsearch.daimlertruck.com/index.php?ac=jobad&id=423925
+Daimler Truck,Software Development Engineer III Full Stack,Portland OR USA,English,Java 17+/Spring Boot/Angular/React/TypeScript/SAP Commerce,https://jobsearch.daimlertruck.com/index.php?ac=jobad&id=422301
+Daimler Truck,Sr. Application Architect Contract Funding,Charlotte NC USA,English,Java 8+/J2EE/Spring Boot/Hibernate/REST/SOAP/Angular/React/SQL/AWS/Azure/Microservices,https://jobsearch.daimlertruck.com/index.php?ac=jobad&id=420919
+Phoenix Pharma,Erfahrener Software-Entwickler (m/w/d),Germany,German,Angular/C#/.NET/SQL/Docker/K8s,https://devjobs.de/job/2dce1a26120aaaac6999ef89b30d0458
+Phoenix Pharma,Erfahrener DevOps Engineer (m/w/d),Germany,German,DevOps,https://jobs.phoenixgroup.eu/en/jobs
+Bayer,Senior Lead Data Scientist,Berlin Germany,English,Python/R/SQL,https://talent.bayer.com/careers
+Bayer,Machine Learning Engineer,Frankfurt Germany,English,Python/TensorFlow/NumPy/PyTorch/Pandas,https://talent.bayer.com/careers
+Bayer,Machine Learning Engineer,Monheim Germany,English,Python/PyTorch/NumPy/TensorFlow/Pandas,https://talent.bayer.com/careers
+Bayer,Sr. Staff Software Engineer (Go/Golang/Python),Creve Coeur MO USA,English,Go/Python,https://talent.bayer.com/careers/job/562949973446659
+Talanx,Software Developer .NET,Hanover Germany,German/English,C#/TypeScript/Azure SQL,https://www.talanx.com/de/talanx_gruppe/karriere
+Talanx,Full Stack Developer Investment Management,Cologne Germany,English,.NET/SQL/Oracle,https://www.talanx.com/de/talanx_gruppe/karriere
+Talanx,Power Platform & Power Apps Developer,Hamburg/Hanover Germany,English,MS Power Platform/Graph API/Azure AI/Microsoft 365,https://en.devjobs.de/job/f3f5683a246e89c615d57ab9bc208826
+Talanx,Cloud DevOps Engineer,Hilden/Hanover Germany,English,AWS CDK/AWS,https://www.talanx.com/de/talanx_gruppe/karriere
+Talanx,Data & Analytics Engineer,Hanover Germany,English,SQL/Python/R/MS Power Platform/Shiny,https://www.talanx.com/de/talanx_gruppe/karriere
+LBBW,ServiceNow Developer / Technical Lead (m/w/d),Stuttgart Germany,German,ServiceNow,https://karriere.lbbw.de/search
+LBBW,Developer Plattform Engineer (m/w/d),Stuttgart Germany,German,Platform Engineering,https://karriere.lbbw.de/search
+ZF Friedrichshafen,Software Engineer positions,Friedrichshafen Germany,English/German,Embedded/Automotive/C/Python/C#,https://jobs.zf.com/
+DZ Bank,Senior Software Engineer Pricing Platform Java / Angular,Frankfurt Germany,German/English,Java/Angular,https://jobs.dzbank.de
+DZ Bank,Senior Fullstack Developer Capital Markets,Frankfurt Germany,German/English,Java/Angular/AWS/Microservices,https://jobs.dzbank.de
+DZ Bank,Gruppenleiter Softwareentwicklung Java / Cloud,Frankfurt Germany,German,Java/Cloud,https://jobs.dzbank.de
+Continental,Cooperation Portal Developer (.NET/C#/Angular/AWS),Ingolstadt Germany Hybrid,German required,.NET/C#/Angular/AWS,https://www.rapidjob.de/job/hmvhu8f/
+Continental,Smart Factory Engineer (.NET/C#),Szeged Hungary Hybrid,English,.NET/C#,https://jobs.continental.com/de/detail-page/job-detail/REF96767S/
+Continental,Azure Cloud Architect (m/f/d),Hannover Germany,English,Azure,https://jobs.continental.com/
+Lufthansa Group,Software Developer (Go/Golang),Norderstedt Germany,German required,Go/Golang,https://apply.lufthansagroup.careers/index.php?ac=jobad&id=128610
+Lufthansa Group,Application Developer,Germany,English,Java/C#/Python/JavaScript/React/Angular/Vue.js/Node.js/Spring/.NET Core/SQL/Git,https://lufthansagroup.careers
+ThyssenKrupp,.NET & IoT Software Developer (m/w/d),Oberhausen/Homeoffice,German required,C#/.NET/IoT,https://www.rapidjob.de/job/dy6mtts/
+ThyssenKrupp,Software Developer .NET and IoT,Oberhausen Germany,German/English,.NET/JavaScript/C#/HTML/Blazor,https://karriere.thyssenkrupp.com/en/germany
+Siemens Energy,Senior AI Software Engineer,Warsaw Poland Hybrid,English,Java/Node.js/Python/AWS/Kubernetes/RAG,https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Senior-AI-Software-Engineer/300489
+Siemens Energy,Software Engineer MLOps AI,Global,English,MLOps/AI,https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Software-Engineer-MLOps-AI/294578
+Siemens Energy,AI Platform Engineer,Global,English,AI/ML/Cloud,https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/AI-Platform-Engineer/301258
+Siemens Energy,Gen AI Research Engineer,Global,English,Generative AI,https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Gen-AI-Research-Engineer/301201
+Siemens Energy,Customer Solution Architect Omnivise Ecosystem,Global,English,Solution Architecture,https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Customer-Solution-Architect-Omnivise-Ecosystem-Solutions-Architecture/301567
+EnBW,Power Platform Developer & Backend Engineer (f/m/d),Lisbon Portugal,English,Power Platform/.NET/C#/Azure DevOps/Git,https://rejobs.org/en/renewable-energy-jobs/112638
+EnBW,Azure Fullstack Developer .NET/C# (f/m/d),Lisbon Portugal,English,Azure/.NET/C#/Fullstack,https://rejobs.org/en/renewable-energy-jobs/112636
+SAP,Senior Full-Stack Developer (f/m/d) SAP CFS,Berlin Germany,English,Full-Stack/Backend,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Senior Developer (f/m/d) BTP Metering & Reporting,Garching bei München Germany,English,SAP BTP/Cloud,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Senior Frontend & Agent Engineer (f/m/d) Joule Work Desktop,Walldorf Germany,English,Frontend/AI Agents,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Forward Deployed AI Engineer Expert/Senior (f/m/d),Garching bei München Germany,English,AI,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Platform Engineering Expert SAP Data Accelerator (m/f/d),Berlin Germany,English,Platform Eng/Data,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Development Architect AI Foundation Model Training (f/m/d),Potsdam Germany,English,AI/ML Architecture,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Principal AgenticAI Engineer/Architect AI CoE (f/m/d),Garching bei München Germany,English,Agentic AI/Architecture,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+SAP,Forward Deployed Application Engineering Chief Expert (f/m/d),Garching bei München Germany,English,App Engineering/AI,https://jobs.sap.com/go/Software-Engineer-Jobs-in-Germany/944901
+Camunda,Software Engineer Full Stack Core Features,Remote Worldwide,English,Full Stack/Backend/Distributed Systems,https://camunda.com/careers/all-jobs/
+Camunda,Software Engineer Full Stack Web Modeler Acceleration,Germany / Remote,English,Full Stack/Backend,https://camunda.com/careers/all-jobs/
+Camunda,Senior Software Engineer Backend Core/API & Process Automation,Remote Worldwide,English,Backend/API/Distributed Systems,https://camunda.com/careers/all-jobs/
+Camunda,Senior Software Engineer Infrastructure,Remote EMEA,English,Infrastructure/Backend/K8s/Terraform/GitHub Actions/GCP/AWS/Azure/Python/Go,https://camunda.com/careers/all-jobs/
+Camunda,AI Process Forward Deployed Engineer,Remote,English,AI/Process Automation,https://camunda.com/careers/all-jobs/
+Camunda,Engineering Manager Infrastructure,Remote,English,Infrastructure/K8s/CI/CD,https://camunda.com/careers/all-jobs/
+Camunda,Senior Information Security Engineer Application Security,Remote,English,AppSec/Security,https://camunda.com/careers/all-jobs/
+Metro,Platform Architect - Procurement (m/f/d),Düsseldorf Germany,Not specified,Architecture/Platform,https://careers.metroag.de/jobs
+Metro,DevSecOps Engineer,Pune India,English,DevSecOps/CI/CD/Security,https://builtin.com/company/metro-ag/jobs
+Metro,AI Engineer,Pune India,English,AI/Google Cloud/Microservices/LLMs,https://builtin.com/company/metro-ag/jobs
+Kardex,Software Engineer Custom Solutions (m/w/d),Bellheim Germany,German/English,Custom Software,https://kardex.wd103.myworkdayjobs.com/Kardex
+Kardex,Senior Fullstack Developer Angular/C# (m/w/d),Rülzheim Germany,German/English,Angular/C#/.NET,https://kardex.wd103.myworkdayjobs.com/Kardex
+Kardex,Senior Software Engineer,Remote Poland,English,C#/.NET/WPF/HTML5/React,https://kardex.wd103.myworkdayjobs.com/en-US/Kardex/job/Senior-Software-Engineer_JR104564-1
+Kardex,Senior Software Developer,Remote Poland,English,C#/.NET/WPF/React,https://kardex.wd103.myworkdayjobs.com/Kardex
+Kardex,Software Developer Full-Stack,Fontenay-Sous-Bois France,French/English,Full-Stack,https://kardex.wd103.myworkdayjobs.com/Kardex
+codecentric AG,Consultant Input Management - Document Intelligence (.NET/Java),Karlsruhe Germany Hybrid,German required,.NET/Java/Document Intelligence,https://codecentric.jobs.personio.de/job/2742049
+codecentric AG,Senior Cloud Engineer & Consultant,Karlsruhe Germany Hybrid,German required,Cloud/Consulting,https://codecentric.jobs.personio.de/job/2716788
+codecentric AG,Forward Deployed Engineer,Karlsruhe Germany Hybrid,German required,Engineering,https://codecentric.jobs.personio.de/job/2716826
+codecentric AG,AI Software Engineer & Consultant,Karlsruhe Germany Hybrid,German required,AI/Consulting,https://codecentric.jobs.personio.de/job/2717132
+Emagine,Full-Stack-Entwickler mit Architekturkompetenz (m/w/d),Remote Germany,German C1,.NET/C#/DDD/Clean Code/Entity Framework Core,https://www.freelancermap.de/projekt/full-stack-entwickler-mit-architekturkompetenz-m-w-d
+Emagine,Développeur Fullstack .NET/Angular,La Garenne-Colombes France,French,.NET/Angular,https://fr.linkedin.com/jobs/view/4441308135
+Emagine,Software Engineer CI/CD,Remote Germany,German,CI/CD/DevOps,https://portal.emagine.org/jobs/177673/software-engineer-cicd-ab-sofort-remote-mwd
+Emagine,Software Engineer (freelance),Various Germany,English/German,Various,https://portal.emagine.org/jobs/174844/software-engineer
+SUSE,Software Engineer Rancher,Remote (Nuremberg HQ),English,Go/Kubernetes,https://jobs.suse.com/
+Dynatrace,Senior Software Engineer .NET/C++,Linz Austria,English,.NET/C++,https://www.dynatrace.com/careers/jobs/
+Dynatrace,Senior AI Agent Software Engineer,Linz Austria,English,Go/Python/AI,https://www.dynatrace.com/careers/jobs/
+Dynatrace,Senior Full-Stack Engineer Backend Focus,Vienna/Graz Austria,English,Go/Python,https://www.dynatrace.com/careers/jobs/1398855900/
+Raiffeisen Bank Intl,Senior Backend Developer (Go/Kubernetes/AI),Vienna Austria,English mandatory,Go/Kubernetes/AI,https://jobs.rbinternational.com/job/Wien-Senior-Backend-Developer-%28fmx%29-with-Business-Analysis-&-AI-Expertise-Vien-1030/1365094657/
+Raiffeisen Group IT,Backend Developer (Go/microservices),Bucharest/Remote,English,Go/Microservices/Apache Pulsar,https://www.raiffeisen-tech.com/ro/en/open-positions/backend-developer.html
+TomTom,Go Software Engineer API Management SRE,Amsterdam Netherlands,English,Go/SRE/API,https://www.tomtom.com/careers/jobdetails/5122e355-c000-45ba-9497-76886bf0357a/go-software-engineer-api-management-sre/
+Saxo Bank,Senior Developer (C#/.NET/SQL Server),Amsterdam Netherlands,English,C#/.NET/SQL Server,https://www.fintechcareers.com/job/41060/senior-developer-amsterdam/
+Yuki Company,Sr. Back-end Developer (.NET/C#/Azure),Rotterdam Netherlands,English,.NET/C#/Azure,https://jobs.yukisoftware.com/jobs/8166605-sr-back-end-developer
+Booking.com,Software Engineer I Backend,Amsterdam Netherlands,English,Backend/Java,https://jobs.booking.com/booking/jobs/16042?lang=en-us
+Booking.com,AI Backend Software Engineer II,Amsterdam Netherlands,English,Backend/AI,https://jobs.booking.com/booking/jobs/26708?lang=en-us
+Swiss Re,Full Stack Software Developer,Zurich Switzerland Hybrid,English,Full Stack/Cloud,https://www.swissre.com/careers/jobSearch.html
+Swiss Re,Software Engineer Agentic Engineering,Zurich Switzerland Hybrid,English,Backend/AI,https://www.swissre.com/careers/jobSearch.html
+Zurich Insurance,Senior Platform Engineer Identity & Security,Zurich Switzerland,English fluent,Platform/Security/Cloud,https://www.jobup.ch/en/jobs/detail/d8beb0be-126d-4ed8-8a57-695a9ab1c87c/
+ABB,Software Engineer Digital Data Exchange (C#/Java),Germany/Switzerland,English,C#/Java/Digital,https://hiretik.com/jobs/e4e197a9-9e87-447e-aeba-7894eb51d918
+Philips,Senior Software Development Analyst (C#/.NET/SQL),Remote LATAM,English C1,C#/.NET/SQL Server,https://hiretik.com/jobs/3d1185a2-e573-4b4c-b392-35089eec36eb

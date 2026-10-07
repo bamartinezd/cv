@@ -125,6 +125,25 @@ html {
     z-index: 0;
 }
 
+.section-experience {
+    height: auto;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+    gap: 0;
+}
+
+.experience-content {
+    flex: 1;
+    min-width: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
 
 
 

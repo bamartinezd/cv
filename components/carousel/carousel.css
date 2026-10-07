@@ -1,10 +1,10 @@
 .carousel-main-container {
-    position: absolute;
-    width: 405px;
-    top: 40%;
+    width: 100%;
+    max-width: 405px;
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .carousel-container {

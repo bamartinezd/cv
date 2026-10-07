@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="components/card-skill/card-skill.css" />
     <link rel="stylesheet" href="components/card-experience/card-experience.css" />
     <link rel="stylesheet" href="components/carousel/carousel.css" />
+    <link rel="stylesheet" href="components/timeline/timeline.css" />
 
     <title>bamartinezd</title>
 </head>
@@ -60,7 +61,7 @@
             </div>
         </section>
 
-        <section id="section-experience" class="section-container">
+        <section id="section-experience" class="section-container section-experience">
             <div class="flow-container col-4 col-lg-4">
                 <div class="square-container">
                     <div class="flow-square">Experience</div>
@@ -72,11 +73,11 @@
                     </a>
                 </div>
             </div>
-            <div class="carousel-main-container">
-                <i class="fas fa-chevron-left icon-arrow-carousel" id="prev-button"></i>
-                <div class="carousel-container" id="carousel-container">
+            <div class="experience-content">
+                <div class="timeline-wrapper">
+                    <div class="timeline-header">Career Timeline</div>
+                    <div class="timeline-list"></div>
                 </div>
-                <i class="fas fa-chevron-right icon-arrow-carousel" id="next-button"></i>
             </div>
         </section>
     </div>
@@ -93,6 +94,7 @@
     <script type="module" src="components/card-skill/card-skill.js"></script>
     <script type="module" src="components/carousel/carousel.js"></script>
     <script type="module" src="components/card-experience/card-experience.js"></script>
+    <script type="module" src="components/timeline/timeline.js"></script>
 </body>
 
 </html>

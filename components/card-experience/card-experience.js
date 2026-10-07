@@ -11,11 +11,10 @@ function loadData() {
 }
 
 function createCardExperience(experienceObj) {
-
     const cardContainerExperience = createElement('a', 'card-container-experience');
     cardContainerExperience.href = experienceObj.website;
-    cardContainerExperience.target="_blank";
-    
+    cardContainerExperience.target = "_blank";
+
     const cardExperience = createElement('div', 'card-experience');
 
     const logoExperience = createElement('div', 'logo-experience');
@@ -34,10 +33,12 @@ function createCardExperience(experienceObj) {
     const experienceDate = createElement('div', 'experience-date');
     experienceDate.textContent = experienceObj.dateRange;
 
-    textExperience.append(experienceTitle, experienceCompany, experienceDate);
+    const experienceDesc = createElement('div', 'experience-description');
+    experienceDesc.textContent = experienceObj.description;
+
+    textExperience.append(experienceTitle, experienceCompany, experienceDate, experienceDesc);
 
     cardExperience.append(logoExperience, textExperience);
-    
 
     cardContainerExperience.appendChild(cardExperience);
 
@@ -45,4 +46,3 @@ function createCardExperience(experienceObj) {
 }
 
 loadData();
-
